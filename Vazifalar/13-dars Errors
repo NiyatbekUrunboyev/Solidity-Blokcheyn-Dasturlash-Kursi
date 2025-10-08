@@ -1,0 +1,14 @@
+/*
+Bank kontraktini yarating quyidagi funksiyalar bilan:
+
+- deposit() - balansni to'ldirish
+
+// public yoniqa payable qilib yoziladi. nimaligini keyingi darsda koramiz
+
+- withdraw(amount) - mablag'ni yechish
+
+Talablar:
+require dan yetarli balans bo'lmaganda foydalaning
+require bilan nol yechishni tekshiruv qo'shing
+require bilan 10 ETH limitdan ko'p yechishni taqiqlang
+*/
