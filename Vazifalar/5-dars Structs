@@ -1,0 +1,12 @@
+// Book nomli struct yarating.
+// Unda quyidagi o'zgaruvchilar bo'lsin:
+// - title (string turida)
+// - author (string turida)
+// - book_id (uint turida)
+// - price (uint turida)
+// - is_available (bool turida) 
+
+// Book struct turida public kitob o'zgaruvchisini yarating. 
+//O'zingizngizga yoqqan kitob ma'lumotlarini joylang.
+
+//Hohlagan usulni ishlatishiz mumkin.
