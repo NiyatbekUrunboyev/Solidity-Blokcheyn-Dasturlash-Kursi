@@ -1,0 +1,10 @@
+/* 
+Student nomli struct yarating.
+Unda quyidagi o'zgaruvchilar bo'lsin:
+- name (string turida)
+- age (uint turida)
+
+Studentlar ro'yxatini yarating (dynamic array).
+Va yangi qo'shilgan studentlarni ro'yxatga qo'shadigan funksiya yarating.
+Studentlar sonini qaytaradigan funksiya yarating.
+*/
