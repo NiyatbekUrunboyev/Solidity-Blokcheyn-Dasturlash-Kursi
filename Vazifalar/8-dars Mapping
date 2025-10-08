@@ -1,0 +1,6 @@
+/*
+Foydalanuvchi ID si orqali yoshni saqlovchi mapping yarating Quyidagi funktsiyalarni qo'shing:
+- addUser: Yangi foydalanuvchi qo'shish
+- getUserAge: Foydalanuvchi yoshini olish
+- updateUserAge: Yoshni yangilash
+*/
