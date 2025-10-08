@@ -1,0 +1,7 @@
+/* 
+Restoran buyurtmalari holatlarini boshqarish uchun kontrakt yarating
+
+OrderStatus enumini quyidagi holatlar bilan yarating: eceived, Preparing, Ready, Served, Cancelled
+Joriy holatni saqlash uchun o'zgaruvchi qo'shing
+Holatni o'zgartirish funksiyalarini amalga oshiring
+*/
