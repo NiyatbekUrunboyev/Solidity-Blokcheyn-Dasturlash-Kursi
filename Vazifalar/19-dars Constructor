@@ -1,0 +1,16 @@
+/*
+contract KutubxonaKitob {
+    // TODO: 3 ta o'zgaruvchi e'lon qiling:
+    // 1. librarian - kutubxonachi manzili (public)
+    // 2. bookCount - jami kitoblar soni (public) 
+    // 3. createdYear - kutubxona ochilgan yili (public)
+    
+    // TODO: Konstruktorni to'ldiring
+    constructor(uint256 _kitoblarSoni, uint256 _yil) {
+        // librarian o'zgaruvchisiga kontraktni yaratayotgan odam manzilini yozing
+        // bookCount o'zgaruvchisiga birinchi parametrdan kelgan sonni yozing
+        // createdYear o'zgaruvchisiga ikkinchi parametrdan kelgan yilni yozing
+    }
+    
+}
+*/
