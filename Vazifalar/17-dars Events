@@ -1,0 +1,28 @@
+/*
+contract SportTadbirlari {
+    // TODO: Eventni to'g'ri e'lon qiling:
+    // Event nomi: tennisTurniri
+    // indexed parametr: sportUstasi
+    // oddiy parametr: xabar
+    
+    // TODO: Eventni to'g'ri e'lon qiling:
+    // Event nomi: basketbolOyini  
+    // indexed parametr: murabbiy
+    // oddiy parametr: vaqt
+
+    // TODO: testTennis funksiyasini to'ldiring:
+    function testTennis() public {
+        // emit yordamida tennisTurniri hodisasini chaqiring
+        // msg.sender - sportUstasi o'rnida
+        // "Ertaga tennis turniri boshlanadi" - xabar o'rnida
+    }
+
+    // TODO: testBasketball funksiyasini to'ldiring:
+    function testBasketball() public {
+        // emit yordamida basketbolOyini hodisasini chaqiring
+        // msg.sender - murabbiy o'rnida  
+        // "Seshanba kuni soat 15:00" - vaqt o'rnida
+    }
+}
+
+*/
