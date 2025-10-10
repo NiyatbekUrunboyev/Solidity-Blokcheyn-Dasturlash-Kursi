@@ -1,0 +1,12 @@
+/*
+// Uchburchakning 2 ta qiymatni qaytaradigan funktsiyasini yarating:
+// - to'rtburchakning yuzasi (uint)
+// - perimetri (uint)
+function calculateRectangle(uint length, uint width) public pure returns (uint, uint) {
+    // O'zingning kodingizni  bu yerga yozing
+}
+
+function calculateRectangleNamed(uint length, uint width) public pure returns (uint area, uint perimeter) {
+    // Qiymatlarni to'g'ridan-to'g'ri nomlarga belgilang
+}
+*/
