@@ -1,13 +1,7 @@
 /*
-// 1 dan N gacha sonlar yig'indisini hisoblaydigan funksiya yozing
+// 1 dan N gacha sonlar yig'indisini hisoblaydigan funksiya yozing  
 function sumToN(uint n) public pure returns (uint) {
     // for loop dan foydalaning
-    // require yordamida n > 0 ekanligini tekshiring
-}
-
-// 1 dan N gacha bo'lgan juft sonlar massivini qaytaradigan funksiya
-function findEvenNumbers(uint n) public pure returns (uint[] memory) {
-    // for loop va if shartidan foydalaning
-    // Toq sonlar uchun continue qo'shing
+    // n > 0
 }
 */
