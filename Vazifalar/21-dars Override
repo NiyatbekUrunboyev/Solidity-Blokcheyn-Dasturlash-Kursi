@@ -1,0 +1,21 @@
+/*
+//SPDX-License-Identifier: MIT
+pragma solidity ^0.8.30;
+contract Animal {
+    string public species = "Animal";
+
+    function startEating() public pure virtual returns (string memory) {
+        return "Animal is eating.";
+    }
+}
+// TAPSHIRIQ: Quyidagi shartnomalarni yarating
+// 1. Fish nomli yangi shartnoma yarating u Animal dan voris olsin
+// 2. Fish shartnomasida "swim" nomli funksiya yarating
+// 3. Fish shartnomasida startEating funksiyasini override qiling
+// 4. Shark nomli yangi shartnoma yarating u Fish dan voris olsin
+// 5. Shark shartnomasida "hunt" nomli funksiya yarating
+// 6. Shark shartnomasida startEating funksiyasini yana override qiling
+
+//Funksiyalarni ichiga hohlagan matnlaringizni yozing
+
+*/
