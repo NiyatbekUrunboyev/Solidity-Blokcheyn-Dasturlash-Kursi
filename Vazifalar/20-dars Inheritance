@@ -1,0 +1,10 @@
+// TAPSHIRIQ: Quyidagi shartnomalarni yarating
+// 1. Bird nomli shartnoma yarating
+// 2. Bird uchun "fly" nomli funksiya yarating
+// 3. fly funksiyasi "I can fly!" matnini qaytarsin
+// 4. Sparrow nomli shartnoma yarating u Bird dan voris olsin
+// 5. Sparrow uchun "makeNest" nomli funksiya yarating
+// 6. makeNest funksiyasi "Sparrow is making a nest." matnini qaytarsin
+// 7. Eagle nomli shartnoma yarating u Bird dan voris olsin  
+// 8. Eagle uchun "huntPrey" nomli funksiya yarating
+// 9. huntPrey funksiyasi "Eagle is hunting prey." matnini qaytarsin
