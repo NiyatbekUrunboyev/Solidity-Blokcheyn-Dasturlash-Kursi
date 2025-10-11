@@ -1,0 +1,14 @@
+/*
+// TAPSHIRIQ: Quyidagi shartnomalarni yozing
+
+// 1. Teacher shartnomasi:
+//    - teach() nomli virtual funksiya: "Teacher is teaching" qaytarsin
+
+// 2. Student shartnomasi:  
+//    - study() nomli virtual funksiya: "Student is studying" qaytarsin
+
+// 3. Class shartnomasi: Teacher VA Student dan voris olsin
+//    - teach() funksiyasini  super.teach() ni chaqirsin
+//    - study() funksiyasini  super.study() ni chaqirsin
+//    - classroom() nomli yangi funksiya: "Classroom activities" qaytarsin
+*/
