@@ -1,0 +1,16 @@
+
+/*
+// TAPSHIRIQ: Funktsiya 5 dan 15 gacha bo'lgan sonlarni qabul qilsin
+// 5 dan kichik yoki 15 dan katta sonlar uchun xatolik chiqarsin
+
+contract NumberChecker {
+    function checkNumber(uint256 _num) public pure returns(string memory) {
+        // TODO 1: Son 5 dan katta bo'lishi kerak (require)
+        _______________________
+        
+        // TODO 2: Son 15 dan kichik bo'lishi kerak (require) 
+        _______________________
+        
+        return "Son qabul qilindi!";
+    }
+    */
