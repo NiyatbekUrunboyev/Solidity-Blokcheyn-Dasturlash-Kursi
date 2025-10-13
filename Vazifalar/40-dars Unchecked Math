@@ -1,0 +1,8 @@
+/*
+house nomli uint o'zgaruvchini e'lon qiling va unga 250 qiymatini bering.
+Keyingi satrda esa, funksiyada house o'zgaruvchisini 2 ga oshiring.
+Buning uchun house = house + 2 yoki house += 2 usullaridan foydalanishingiz mumkin.
+Funskiyani 3 marta chaqiring va natijani tekshiring.
+Hatolikni bartaraf etish uchun, kontraktga "unchecked" kalit so'zini qo'shing.
+
+*/
