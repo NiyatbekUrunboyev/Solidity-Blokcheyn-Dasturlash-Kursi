@@ -5,7 +5,7 @@ uint256 public b = 3;
 uint256 public result; */ 
 
 /*Ularning yig’indisini(addition), ayirmasini(substaction), ko’paytmasini(multiplication),  bo’linmasini(division), 
-birinchining darajasida ikkinchisini(power) va birinchini ikkinchiga bo'lgandagi qoldiqni(modulus) aniqlovchi funksiyalar yarating.
+birinchining darajasida ikkinchisini(power) funksiyalar yarating.
 Har bir funksiyani chaqirganda natija o'zgaruvchisi yangilansin va natijani qaytarsin.*/
 
 /*Funksiyar nomlari:
@@ -14,6 +14,5 @@ subtractionResult
 multiplicationResult
 divisionResult 
 powerResult  
-modulusResult
 */
 

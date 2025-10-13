@@ -25,8 +25,4 @@ function divisionResult() public {
 function powerResult() public {
     result = a ** b;
     }
-
-function modulusResult() public {
-    result = a % b;
-    }
 }
